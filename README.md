@@ -1,19 +1,31 @@
-# Hi there, I'm Adarsh Dev 👋
+# Hi there, I'm Adarsh Dev! 👋
 
-Aspiring Python developer with a passion for web development and machine learning. Currently learning new frameworks like Django and expanding my Python skills. 
+I'm an **aspiring Python developer** with a strong interest in **web development** and **machine learning**. I specialize in frameworks like **Django** and **Next.js**, and I also have experience in **UI/UX design** using **Figma**. My focus is on building efficient, scalable applications with a keen eye for design.
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python,JavaScript
-- **Frameworks**: Django, Flask, React
+- **Languages**: Python, JavaScript
+- **Frameworks/Libraries**: Django, Flask, React, Next.js
 - **Databases**: MySQL, SQLite
-- **Tools**: Git, VS Code
+- **Design Tools**: Figma (UI/UX design)
+- **Version Control**: Git, GitHub
+- **IDEs/Editors**: Visual Studio Code
 
-## 🌱 Currently Learning
-- Advanced Python concepts
-- Django for web apps
-- Next Js
-## 📫 How to reach me
-- **Email**: adarshdev9349@gmail.com
+---
+
+## 🌱 What I'm Currently Working On
+- Building web applications with Django and Next.js
+- Enhancing my full-stack development skills
+- Integrating UI/UX best practices into my projects using Figma
+
+---
+
+## 📫 Let's Connect!
+- **Email**: [adarshdev9349@gmail.com](mailto:adarshdev9349@gmail.com)
 - **GitHub**: [AdarshDev9349](https://github.com/AdarshDev9349)
+- **LinkedIn**: [Your LinkedIn Profile](#) _(Add your link here)_
 
-Thanks for visiting my profile! 😄
+---
+
+Thanks for stopping by! 😄
