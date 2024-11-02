@@ -24,7 +24,6 @@ I'm an **aspiring Python developer** with a strong interest in **web development
 ## 📫 Let's Connect!
 - **Email**: [adarshdev9349@gmail.com](mailto:adarshdev9349@gmail.com)
 - **GitHub**: [AdarshDev9349](https://github.com/AdarshDev9349)
-- **LinkedIn**: [Your LinkedIn Profile](#) _(Add your link here)_
 
 ---
 
