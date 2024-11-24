@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh Dev! 👋
 
-I'm an **aspiring Python developer** with a strong interest in **web development** and **machine learning**. I specialize in frameworks like **Django** and **Next.js**, and I also have experience in **UI/UX design** using **Figma**. My focus is on building efficient, scalable applications with a keen eye for design.
+I'm an **aspiring Python developer** with a strong interest in **web development** and **machine learning**. I specialize in frameworks like **Django** and **React.js**, and I also have experience in **UI/UX design** using **Figma**. My focus is on building efficient, scalable applications with a keen eye for design.
 
 ---
 
