@@ -6,8 +6,7 @@ I'm an **aspiring Python developer** with a strong interest in **web development
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript
-- **Frameworks/Libraries**: Django, Flask, React, Next.js
-- **Databases**: MySQL, SQLite
+- **Frameworks/Libraries**: Django, Flask, Reactjs
 - **Design Tools**: Figma (UI/UX design)
 - **Version Control**: Git, GitHub
 - **IDEs/Editors**: Visual Studio Code
